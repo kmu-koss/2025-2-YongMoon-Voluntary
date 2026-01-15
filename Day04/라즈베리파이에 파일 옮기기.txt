@@ -2,3 +2,8 @@ https://github.com/kmu-koss/2025-2-YongMoon-Voluntary/archive/refs/heads/main.zi
 
 
 unzip main.zip
+
+
+source ai-env/bin/activate
+
+python run_game.py
